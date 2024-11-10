@@ -1,6 +1,6 @@
 👋 Hello, I'm Tej, I am a programmer.
 
-Currently, I am maintaining following projects on the go:
+In my spare time, I maintain following fun projects:
 
 - 🆕 [Oh My Zsh Aliases](http://ohmyzsh.netlify.app)
 - [CS1000](http://cs1000.surge.sh)
